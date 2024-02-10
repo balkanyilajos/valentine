@@ -1,0 +1,42 @@
+button {
+    font-size: 1.5em;
+    text-align: center;
+    padding: 5px 10px;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(220, 93, 93);
+    border: 3px solid rgb(131, 2, 2);
+    border-radius: 10px;
+}
+
+p {
+    font-size: 1.5em;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.valentine {
+    text-align: center;
+    position: fixed;
+    margin: auto;
+    top: 15%;
+    left: 15%;
+    right: 15%;
+    bottom: 15%;
+}
+
+.main-gif {
+    width: 150px;
+    height: 150px;
+}
+
+.hide {
+    display: none;
+}
+
+#thank-you-gif {
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+    margin: auto;
+}
